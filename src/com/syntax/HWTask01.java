@@ -7,6 +7,12 @@ public class HWTask01 {
             System.out.println(i+ " ");
 
         }
-        System.out.println("check up");
+        System.out.println("**************HW02*******************");
+
+        int num=51;
+        for (int i = 0; i < num; i++) {
+            System.out.println(i+" ");
+
+        }
     }
 }
